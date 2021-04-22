@@ -1,0 +1,2 @@
+# altinkariyer_parcacik_suru_optimizasyonu
+Parçacık Sürü Optimizasyonu Python Kod Örneği
